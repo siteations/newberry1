@@ -1,0 +1,43 @@
+old format for basic captions
+
+<div class="media_description pane" style="display: block;">
+    <div class="bibCitation">
+    	<em>A leaf from the Gutenberg Bible</em>. Mainz: Printer of the 42 line Bible [i.e. Johann Gutenberg], 1454.
+    </div>
+    <div class="translated_title">
+    	A leaf from the Gutenberg Bible
+    </div>
+    : Working with a staff of as many as twelve printers and six compositors, it took Johannes Gutenberg more than two years to print
+    <div class="ellipses" style="display:inline">... </div>
+    <a href="./media/A leaf from the Gutenberg Bible.html" id="morelink">more</a>
+
+    <div class="fulltext" style="display:none;">
+    	180 copies of this 1282-page Bible that has 42 lines per page, with two pages printed on each side of a leaf. The first print run sold out almost immediately, and around 50 complete copies survive today. This leaf, one of two in the Newberry’s collection, shows portions from two chapters of the book of Ezekiel.
+    </div>
+    <div class="viewmore">
+        <br>View: <a href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2335">Digitized selections</a> | <a href="https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&amp;v1=1&amp;BBRecID=84720">Catalog record</a>
+     </div>
+</div>
+
+new format
+
+<div class="media_description pane" style="display: block;">
+<div class="bibCitation">
+		Martin Luther, 1483–1546.
+	<br>
+		<strong><em>Sermon on Three-Fold Righteousness.</em></strong>
+	<br>
+	<em>
+		(Sermo de triplici justitia R Patris Martini Luther Augustiniani Vuittembergensis.)
+	</em>
+	<br>
+	Book with woodcuts, printed in Leipzig, Germany, by Melchior Lotther in 1518.</div>This sermon shows Luther as a “good monk.” He preached it before he had fully committed himself to the theological positions that would drive him away from the Roman Church. This edition is notable
+
+	<div class="ellipses" style="display:inline">...
+	</div>
+
+	<a href="http://publications.newberry.org/dig/rcp/media/sermo-de-triplici" target="_blank" id="morelink">
+		more
+	</a>
+
+	<div class="fulltext" style="display:none;"> for the handsome woodcut of the Virgin Mary, for whom Luther is said to have had a great affinity throughout his life.</div><div class="viewmore"><br>View: <a href="https://archive.org/stream/wing_zp_547_l23#page/n3/mode/2up" target="_blank">Digitized item</a> | <a href="https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&amp;v1=1&amp;BBRecID=519057" target="_blank">Catalog record</a></div></div>
