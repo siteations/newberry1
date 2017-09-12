@@ -1819,7 +1819,7 @@ body.timeline header>h1{
 }
 
 .submenu li {
-	margin-top: 2rem;
+	margin-top: 1.5rem;
 }
 
 @media (min-width: 768px) {
